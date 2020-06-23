@@ -1,0 +1,51 @@
+1.jdk------------ok
+
+2.tomcat------------ok
+3.mysql------------ok
+4.idea
+5.notepad++------------------ok
+git--SourceTreeSetup-3.0.17/TortoiseGit-2.8.0.0
+7.maven--------------ok
+8.navicat
+patch unsuccessfully or already
+
+
+
+getMapping/put/post
+pathVariable/request
+
+jdk1.8.0_251
+jre1.8.0_251
+
+<mirror>
+      <id>alimaven</id>
+      <name>aliyun maven</name>
+      <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+      <mirrorOf>central</mirrorOf>        
+</mirror>
+————————————————
+版权声明：本文为CSDN博主「Dreamboy_w」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/dreamboy_w/java/article/details/95600545
+
+
+# Github
+151.101.44.249 github.global.ssl.fastly.net 
+192.30.253.113 github.com 
+103.245.222.133 assets-cdn.github.com 
+23.235.47.133 assets-cdn.github.com 
+203.208.39.104 assets-cdn.github.com 
+204.232.175.78 documentcloud.github.com 
+204.232.175.94 gist.github.com 
+107.21.116.220 help.github.com 
+207.97.227.252 nodeload.github.com 
+199.27.76.130 raw.github.com 
+107.22.3.110 status.github.com 
+204.232.175.78 training.github.com 
+207.97.227.243 www.github.com 
+185.31.16.184 github.global.ssl.fastly.net 
+185.31.18.133 avatars0.githubusercontent.com 
+185.31.19.133 avatars1.githubusercontent.com
+192.30.253.120 codeload.github.com
+————————————————
+版权声明：本文为CSDN博主「卜居易」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u013517229/java/article/details/81351885

@@ -1,0 +1,3 @@
+Shift+Enter光标回到下一行；
+ctrl+chift+enter光标回到最后编辑的位置；
+ctrl+y 删除当前行；
